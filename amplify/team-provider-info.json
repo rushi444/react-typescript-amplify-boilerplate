@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyauthboilerpla-dev-171336-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148716834237:role/amplify-amplifyauthboilerpla-dev-171336-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148716834237:role/amplify-amplifyauthboilerpla-dev-171336-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-amplifyauthboilerpla-dev-171336-deployment",
+            "UnauthRoleName": "amplify-amplifyauthboilerpla-dev-171336-unauthRole",
+            "StackName": "amplify-amplifyauthboilerpla-dev-171336",
+            "StackId": "arn:aws:cloudformation:us-west-2:148716834237:stack/amplify-amplifyauthboilerpla-dev-171336/953a4bc0-9e1c-11ea-91cf-06701ab4dd6c",
+            "AmplifyAppId": "d2i89uvqlp6gur"
+        },
+        "categories": {
+            "auth": {
+                "amplifyauthboilerpla334d11b8": {}
+            }
+        }
+    }
+}
